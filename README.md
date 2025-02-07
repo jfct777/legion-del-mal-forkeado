@@ -8,3 +8,4 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
 ## Curso de Fernando en Udemy para practicar github fork
+# olvide de decir que estoy haciendo push a un repo forkeado
